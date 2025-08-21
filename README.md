@@ -1,3 +1,5 @@
-## Hi there 👋
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetankumar-rs&theme=github-compact)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
